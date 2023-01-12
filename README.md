@@ -5,5 +5,5 @@ To Do List (HTML, CSS, JavaScript)
 Link : https://github.com/MrHail/LGMVIP-TASK1-TodoList
 
 
-https://drive.google.com/file/d/1jaNKC9vNa8e9XQhk6GRi_seNBJzJo6GA/view?usp=share_link
+https://drive.google.com/file/d/1jaNKC9vNa8e9XQhk6GRi_seNBJzJo6GA/view
 
